@@ -1,4 +1,4 @@
-# internalpackagesgo | Doc
+# internalpackagesgo | Documentation
 
 ## Description 
 Manipulando pacotes e funções públicas e privadas
@@ -7,7 +7,7 @@ Manipulando pacotes e funções públicas e privadas
 - water.TypesRivers: função pública principal
 - marineAnimals: função privada do pacote water
 
- ## Retorns
+ ## Return
 - função privada chamada em uma pública
 - recursividade das funções no arquivo principal
 
