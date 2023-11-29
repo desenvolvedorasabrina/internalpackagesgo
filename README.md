@@ -5,7 +5,7 @@ Manipulando pacotes e funções públicas e privadas
 
  ## Params
 - water.TypesRivers: função pública do pacote water
-- marineAnimals: função privada recursiva no pacote water
+- marineAnimals: função privada recursiva
 
  ## Retorns
 - função privada inserida em uma pública
