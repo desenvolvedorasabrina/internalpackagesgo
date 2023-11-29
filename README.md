@@ -1,6 +1,6 @@
 # internalpackagesgo | Doc
 
-## Description
+## Description 
 Manipulando pacotes e funções públicas e privadas
 
  ## Params
@@ -11,7 +11,7 @@ Manipulando pacotes e funções públicas e privadas
 - chamada das funções no arquivo principal
 
  ## Author
- Sabrina Santos
+ Feito com ❤️ por Sabrina M. Dos Santos 🚀
 
  ## Source
  Golang Course - Udemy
