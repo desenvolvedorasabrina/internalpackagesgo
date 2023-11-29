@@ -4,7 +4,8 @@
 Manipulando pacotes e funções públicas e privadas
 
  ## Params
-- fmt package
+- water.TypesRivers: função pública do pacote water
+- marineAnimals: função privada recursiva no pacote water
 
  ## Retorns
 - função privada inserida em uma pública
